@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Rihua 👋</h1>
+<h1 align="left">Hi, I'm Rihua 👋</h1>
 
-<p align="center">
+<p align="left">
   <strong>Data Analyst & Data Scientist (ML | SQL | Python | Power BI | Web)</strong><br>
  I build clean, data-driven solutions with Python, SQL, and Power BI—plus a love for UX and automation.
 </p>
