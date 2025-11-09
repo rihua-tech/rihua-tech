@@ -13,15 +13,16 @@ I’m Rihua, a data-first problem solver focused on analytics, ML, and decision 
 
 ### 🔎 My Interests
 
-Decision Dashboards: Retail & ops KPIs; waste %, promo uplift, baseline vs. promo views
+- **Decision Dashboards:** Retail & ops KPIs; waste %, promo uplift, baseline vs. promo views
+  
+- **Forecasting & Time Series:** Baselines, uplift, error tracking (**MAE/MAPE**)
+  
+- **Experimentation:** A/B tests, uplift modeling, practical statistics for decisions
+  
+- **Data Modeling:** Clean SQL schemas, dimension/fact design, reproducible pipelines
+  
+- **Automation & Delivery:** Small Python jobs, scheduled refresh, web/API handoffs
 
-Forecasting & Time Series: Baselines, uplift, error tracking (MAE/MAPE)
-
-Experimentation: A/B tests, uplift modeling, practical statistics for decisions
-
-Data Modeling: Clean SQL schemas, dimension/fact design, reproducible pipelines
-
-Automation & Delivery: Small Python jobs, scheduled refresh, web/API handoffs
 
 ---
 
