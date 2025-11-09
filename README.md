@@ -9,8 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I’m Rihua, a data-first problem solver focused on analytics, ML, and decision dashboards. I enjoy turning messy data into clean, reliable models—building star schemas in SQL, crafting Power BI reports that cut manual work, and using Python for EDA, forecasting, and light automation. Recent projects include a daily-SKU retail dashboard (waste %, promo uplift, holiday windows) and a flight-price analyzer with reproducible notebooks and tidy visuals. I care about clarity, speed, and impact: simple pipelines, trustworthy KPIs, and insights teams can act on.
-
+I'm ✨Rihua Van Steenbrugh✨, and I expect to receive my Master of Science in Data Analytics from Middle Georgia State University in December 2026. During my time at Middle Georgia State University, I gained in-depth knowledge and skills in data mining, predictive analytics, and machine learning. I honed my abilities in data pipeline optimization, data correlation analysis, and creating effective data visualizations. I'm passionate about using data-driven insights to solve complex problems and drive business strategy. I'm proficient in Python, SQL, and various data visualization tools, and I'm always eager to learn and explore the latest trends in data science and machine learning. Let's explore the fascinating world of data together!
 ### 🔎 My Interests
 
 - **Decision Dashboards:** Retail & ops KPIs; waste %, promo uplift, baseline vs. promo views
