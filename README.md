@@ -28,15 +28,15 @@ I’m Rihua, a data-first problem solver focused on analytics, ML, and decision 
 
 ### 🧰 Tech Skills
 
-Programming: Python, SQL (Postgres/MySQL); Git/GitHub; Jupyter & VS Code
-
-Analytics/ML: Pandas, NumPy, scikit-learn (basics), Statsmodels, Matplotlib
-
-BI & Modeling: Power BI (DAX, Power Query, relationships), Star Schema design
-
-Data Ops: Excel power user (lookups/pivots), CSV/JSON handling, data QA checks
-
-Web & APIs: WordPress, REST/JSON, basic JavaScript & PHP for data delivery
+- **Programming:** Python, SQL (Postgres/MySQL), Git/GitHub; Jupyter & VS Code
+  
+- **Analytics/ML:** Pandas, NumPy, scikit-learn (basics), Statsmodels, Matplotlib
+  
+- **BI & Modeling:** Power BI (DAX, Power Query, relationships), **Star Schema** design
+  
+- **Data Ops:** Excel power user (lookups/pivots), CSV/JSON handling, data QA checks
+  
+- **Web & APIs:** WordPress, REST/JSON, basic JavaScript & PHP for data delivery
 
 ---
 
