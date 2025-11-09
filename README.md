@@ -5,7 +5,7 @@
  I build clean, data-driven solutions with Python, SQL, and Power BI—plus a love for UX and automation.
 </p>
 
----
+-
 
 ### 👨‍💻 About Me
 
@@ -23,7 +23,7 @@ Data Modeling: Clean SQL schemas, dimension/fact design, reproducible pipelines
 
 Automation & Delivery: Small Python jobs, scheduled refresh, web/API handoffs
 
----
+-
 
 ### 🧰 Tech Skills
 
@@ -37,7 +37,7 @@ Data Ops: Excel power user (lookups/pivots), CSV/JSON handling, data QA checks
 
 Web & APIs: WordPress, REST/JSON, basic JavaScript & PHP for data delivery
 
----
+-
 
 ### 🚀 Featured Project
 
@@ -47,7 +47,7 @@ Using AI, APIs, and custom design to help users find the best time to book.
 → Visit: [FlyDena.com](https://flydena.com)  
 → Tech: Python, JS, PHP, WordPress, Kadence, Elementor, SEO, Affiliate tools
 
----
+-
 
 ### 📫 Let's Connect
 
@@ -55,7 +55,7 @@ Using AI, APIs, and custom design to help users find the best time to book.
 - 🧠 Portfolio site coming soon!
 - 💬 DM me for collaboration or data/AI project work!
 
----
+-
 
 <p align="center">
   Thanks for stopping by! ✨
