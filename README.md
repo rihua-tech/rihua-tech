@@ -1,34 +1,39 @@
 <h1 align="center">Hi, I'm Rihua 👋</h1>
 
 <p align="center">
-  <strong>Web Developer | Data Analyst | AI + Travel Tech Enthusiast</strong><br>
-  Building intelligent, data-driven solutions with clean code & smart design.
+  <strong>Data Analyst & Data Scientist (ML | SQL | Python | Power BI | Web)</strong><br>
+ I build clean, data-driven solutions with Python, SQL, and Power BI—plus a love for UX and automation.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 Web developer skilled in Python, JavaScript, PHP, WordPress, and API integrations  
-- 📊 Data analyst passionate about turning raw data into insight  
-- ✈️ Creator of [FlyDena.com](https://flydena.com) — helping travelers book smarter with AI  
-- 🌍 Exploring Web3, automation, and tools that bridge design and data
+I’m Rihua, a data-first problem solver focused on analytics, ML, and decision dashboards. I enjoy turning messy data into clean, reliable models—building star schemas in SQL, crafting Power BI reports that cut manual work, and using Python for EDA, forecasting, and light automation. Recent projects include a daily-SKU retail dashboard (waste %, promo uplift, holiday windows) and a flight-price analyzer with reproducible notebooks and tidy visuals. I care about clarity, speed, and impact: simple pipelines, trustworthy KPIs, and insights teams can act on.
 
----
+### 🔎 My Interests
 
-### 🛠️ Tech Stack & Tools
+Decision Dashboards: Retail & ops KPIs; waste %, promo uplift, baseline vs. promo views
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Kadence](https://img.shields.io/badge/-Kadence%20Theme-0057B8?style=flat&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/-Elementor-9146FF?style=flat&logo=elementor)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+Forecasting & Time Series: Baselines, uplift, error tracking (MAE/MAPE)
+
+Experimentation: A/B tests, uplift modeling, practical statistics for decisions
+
+Data Modeling: Clean SQL schemas, dimension/fact design, reproducible pipelines
+
+Automation & Delivery: Small Python jobs, scheduled refresh, web/API handoffs
+
+### 🧰 Tech Skills
+
+Programming: Python, SQL (Postgres/MySQL); Git/GitHub; Jupyter & VS Code
+
+Analytics/ML: Pandas, NumPy, scikit-learn (basics), Statsmodels, Matplotlib
+
+BI & Modeling: Power BI (DAX, Power Query, relationships), Star Schema design
+
+Data Ops: Excel power user (lookups/pivots), CSV/JSON handling, data QA checks
+
+Web & APIs: WordPress, REST/JSON, basic JavaScript & PHP for data delivery
 
 ---
 
