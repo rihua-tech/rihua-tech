@@ -23,6 +23,8 @@ Data Modeling: Clean SQL schemas, dimension/fact design, reproducible pipelines
 
 Automation & Delivery: Small Python jobs, scheduled refresh, web/API handoffs
 
+---
+
 ### 🧰 Tech Skills
 
 Programming: Python, SQL (Postgres/MySQL); Git/GitHub; Jupyter & VS Code
