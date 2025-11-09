@@ -51,7 +51,7 @@ Using AI, APIs, and custom design to help users find the best time to book.
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](#) (add your profile link)
+- 💼 [LinkedIn](#) 
 https://www.linkedin.com/in/rihua/
 
 ---
