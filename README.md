@@ -52,8 +52,7 @@ Using AI, APIs, and custom design to help users find the best time to book.
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](#) (add your profile link)
-- 🧠 Portfolio site coming soon!
-- 💬 DM me for collaboration or data/AI project work!
+https://www.linkedin.com/in/rihua/
 
 ---
 
