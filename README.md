@@ -1,7 +1,7 @@
 <h1 align="left">Hi,there! It's Rihua!  👋</h1>
 
 <p align="left">
-  <strong>Data Analyst & Data Scientist (ML | SQL | Python | Power BI | Web)</strong><br>
+  <strong>Data Analyst & Junior Data Scientist (ML | SQL | Python | Power BI | Web)</strong><br>
  I build clean, data-driven solutions with Python, SQL, and Power BI—plus a love for UX and automation.
 </p>
 
