@@ -1,58 +1,76 @@
-<h1 align="left">Hi,there! It's Rihua!  👋</h1>
+<h1 align="left">Hi, I'm Rihua! 👋</h1>
 
 <p align="left">
-  <strong>Data Analyst & Junior Data Scientist (ML | SQL | Python | Power BI | Web)</strong><br>
- I build clean, data-driven solutions with Python, SQL, and Power BI—plus a love for UX and automation.
+  <strong>Data Engineer | Python • SQL • Azure • Databricks • Airflow • dbt • Power BI</strong><br>
+  I build reliable data pipelines, cloud lakehouse projects, and analytics-ready datasets with clear documentation and business-focused reporting.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm ✨Rihua Van Steenbrugh✨, and I expect to receive my Master of Science in Data Analytics from Middle Georgia State University in December 2026. During my time at Middle Georgia State University, I gained in-depth knowledge and skills in data mining, predictive analytics, and machine learning. I honed my abilities in data pipeline optimization, data correlation analysis, and creating effective data visualizations. I'm passionate about using data-driven insights to solve complex problems and drive business strategy. I'm proficient in Python, SQL, and various data visualization tools, and I'm always eager to learn and explore the latest trends in data science and machine learning. Let's explore the fascinating world of data together!
-### 🔎 My Interests
+I'm **Rihua Van Steenburgh**, a Data Engineer focused on building end-to-end data pipelines, cloud data platforms, and analytics-ready reporting layers.
 
-- **Decision Dashboards:** Retail & ops KPIs; waste %, promo uplift, baseline vs. promo views
-  
-- **Forecasting & Time Series:** Baselines, uplift, error tracking (**MAE/MAPE**)
-  
-- **Experimentation:** A/B tests, uplift modeling, practical statistics for decisions
-  
-- **Data Modeling:** Clean SQL schemas, dimension/fact design, reproducible pipelines
-  
-- **Automation & Delivery:** Small Python jobs, scheduled refresh, web/API handoffs
+I am pursuing my **Master of Science in Data Analytics at Middle Georgia State University**, expected in **December 2026**. My background combines data analytics, web development, and cloud data engineering, which helps me understand both the technical pipeline and the business value behind the data.
 
+My portfolio focuses on real-world data engineering projects using **Python, SQL, Azure, Databricks, PySpark, Delta Lake, Airflow, dbt, GitHub Actions, and Power BI**. I care about building projects that are reproducible, well-documented, and easy for recruiters and teams to understand.
+
+---
+
+### 🔎 My Focus Areas
+
+- **Cloud Data Engineering:** Azure Data Lake, Databricks, PySpark, Delta Lake, and medallion architecture
+
+- **Data Pipelines:** API ingestion, batch processing, orchestration, scheduling, and workflow automation
+
+- **Data Modeling:** Bronze/Silver/Gold layers, star schema design, dimension/fact tables, and analytics marts
+
+- **Data Quality:** validation checks, testing, clean transformations, and reliable reporting outputs
+
+- **BI & Communication:** Power BI dashboards, business KPIs, project documentation, and clear technical storytelling
 
 ---
 
 ### 🧰 Tech Skills
 
-- **Programming:** Python, SQL (Postgres/MySQL), Git/GitHub; Jupyter & VS Code
-  
-- **Analytics/ML:** Pandas, NumPy, scikit-learn (basics), Statsmodels, Matplotlib
-  
-- **BI & Modeling:** Power BI (DAX, Power Query, relationships), **Star Schema** design
-  
-- **Data Ops:** Excel power user (lookups/pivots), CSV/JSON handling, data QA checks
-  
-- **Web & APIs:** WordPress, REST/JSON, basic JavaScript & PHP for data delivery
+- **Languages:** Python, SQL, basic JavaScript, PHP
+
+- **Cloud & Lakehouse:** Azure, ADLS Gen2, Azure Data Factory, Databricks, PySpark, Delta Lake
+
+- **Orchestration & Transformation:** Airflow, dbt, GitHub Actions
+
+- **Data Modeling & BI:** Star Schema, dimensional modeling, Power BI, DAX, Power Query
+
+- **Data Tools:** Pandas, NumPy, PostgreSQL, MySQL, CSV/JSON, Jupyter, VS Code, Git/GitHub
+
+- **Web & Delivery:** WordPress, REST APIs, JSON, SEO, portfolio websites
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-**🔮 FlyDena: Smart Travel & Flight Price Predictor**  
-Using AI, APIs, and custom design to help users find the best time to book.
+#### NYC 311 Service Requests Lakehouse
+A cloud data engineering project that ingests NYC 311 service request data, stores it in Azure Data Lake, processes it with Databricks and PySpark, and builds Bronze, Silver, and Gold layers for analytics.
 
-→ Visit: [FlyDena.com](https://flydena.com)  
-→ Tech: Python, JS, PHP, WordPress, Kadence, Elementor, SEO, Affiliate tools
+**Tech:** Python, SQL, Azure, ADLS Gen2, Databricks, PySpark, Delta Lake, GitHub Actions, Power BI
+
+#### Cloud Flight Fare Pipeline
+An end-to-end data pipeline project using Python, PostgreSQL, dbt, Airflow, Docker, and GitHub Actions to load, transform, test, and analyze flight fare data.
+
+**Tech:** Python, SQL, PostgreSQL, dbt, Airflow, Docker, GitHub Actions
+
+#### FlyDena: Smart Travel & Flight Price Predictor
+A travel website and AI-assisted flight price prediction concept combining APIs, automation, SEO, and web delivery.
+
+**Tech:** Python, JavaScript, PHP, WordPress, REST APIs, SEO
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](#) 
-https://www.linkedin.com/in/rihua/
+- 💼 [LinkedIn](https://www.linkedin.com/in/rihua/)
+- 🌐 [Portfolio](https://rihua-data-engineer.vercel.app/)
+- 🧑‍💻 [GitHub](https://github.com/rihua-tech)
 
 ---
 
