@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Rihua! 👋</h1>
 
 <p align="left">
-  <strong>Data Engineer | Python • SQL • Azure • Databricks • AWS • Airflow • dbt • Power BI</strong><br>
-  I build reliable data pipelines, cloud lakehouse projects, and analytics-ready datasets with clear documentation and business-focused reporting.
+  <strong>Data Engineer | Python • SQL • Azure • AWS • Databricks • Airflow • dbt</strong><br>
+  I build reliable data pipelines, cloud lakehouse and warehouse projects, and analytics-ready datasets with clear documentation, testing, and business-focused reporting.
 </p>
 
 ---
@@ -13,60 +13,62 @@ I'm **Rihua Van Steenburgh**, a Data Engineer focused on building end-to-end dat
 
 I am pursuing my **Master of Science in Data Analytics at Middle Georgia State University**, expected in **December 2026**. My background combines data analytics, web development, and cloud data engineering, which helps me understand both the technical pipeline and the business value behind the data.
 
-My portfolio focuses on real-world data engineering projects using **Python, SQL, Azure, Databricks, PySpark, Delta Lake, Airflow, dbt, GitHub Actions, and Power BI**. I care about building projects that are reproducible, well-documented, and easy for recruiters and teams to understand.
+My portfolio highlights real-world projects across both **Azure** and **AWS** environments, including medallion lakehouse design, batch data pipelines, orchestration, transformation, dimensional modeling, testing, CI, and reporting. I care about building projects that are reproducible, well-documented, and easy for recruiters and teams to understand.
 
 ---
 
-### 🔎 My Focus Areas
+### 🔎 What I Focus On
 
-- **Cloud Data Engineering:** Azure Data Lake,AWS Redshift,Postgres, Databricks, PySpark, Delta Lake, and medallion architecture
+- **Cloud Data Engineering:** Azure Data Lake, Databricks, PySpark, Delta Lake, AWS S3, Redshift, and modern lakehouse/warehouse architecture
 
 - **Data Pipelines:** API ingestion, batch processing, orchestration, scheduling, and workflow automation
 
-- **Data Modeling:** Bronze/Silver/Gold layers, star schema design, dimension/fact tables, and analytics marts
+- **Data Modeling:** Bronze/Silver/Gold layers, dimensional modeling, star schema design, fact and dimension tables, and analytics marts
 
-- **Data Quality:** validation checks, testing, clean transformations, and reliable reporting outputs
+- **Data Quality & Reliability:** validation checks, testing, clean transformations, CI workflows, and production-minded documentation
 
-- **BI & Communication:** Power BI dashboards, business KPIs, project documentation, and clear technical storytelling
+- **BI & Communication:** Power BI dashboards, KPI reporting, project runbooks, architecture diagrams, and clear technical storytelling
 
 ---
 
-### 🧰 Tech Skills
+### 🧰 Tech Stack
 
 - **Languages:** Python, SQL, basic JavaScript, PHP
 
-- **Cloud & Lakehouse:** Azure, ADLS Gen2, Azure Data Factory, Databricks, PySpark, Delta Lake
+- **Cloud & Platforms:** Azure, ADLS Gen2, Azure Data Factory, Databricks, AWS S3, Redshift
+
+- **Processing & Storage:** PySpark, Delta Lake, PostgreSQL, MySQL, CSV/JSON
 
 - **Orchestration & Transformation:** Airflow, dbt, GitHub Actions
 
-- **Data Modeling & BI:** Star Schema, dimensional modeling, Power BI, DAX, Power Query
+- **Data Modeling & BI:** Dimensional Modeling, Star Schema, Power BI, DAX, Power Query
 
-- **Data Tools:** Pandas, NumPy, PostgreSQL, MySQL, CSV/JSON, Jupyter, VS Code, Git/GitHub
+- **Developer Tools:** Git, GitHub, Docker, Jupyter, VS Code
 
-- **Web & Delivery:** WordPress, REST APIs, JSON, SEO, portfolio websites
+- **Web & APIs:** REST APIs, JSON, WordPress
 
 ---
 
 ### 🚀 Featured Projects
 
 #### NYC 311 Service Requests Lakehouse
-A cloud data engineering project that ingests NYC 311 service request data, stores it in Azure Data Lake, processes it with Databricks and PySpark, and builds Bronze, Silver, and Gold layers for analytics.
+Azure-first medallion lakehouse project for NYC 311 operational analytics. Ingests service request data, lands raw data in ADLS Gen2, processes Bronze/Silver/Gold layers in Databricks with PySpark and Delta Lake, and supports downstream reporting with marts and Power BI.
 
-**Tech:** Python, SQL, Azure, ADLS Gen2, Databricks, PySpark, Delta Lake, GitHub Actions, Power BI
+**Tech:** Python, SQL, Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, Power BI, GitHub Actions
 
 #### Cloud Flight Fare Pipeline
-An end-to-end data pipeline project using Python, PostgreSQL, dbt, Airflow, Docker, and GitHub Actions to load, transform, test, and analyze flight fare data.
+End-to-end data engineering pipeline for airline fare data with a local demo path and a production-style AWS architecture. Covers ingestion, staging, transformation, warehouse loading, dbt modeling, analytics-ready marts, testing, and Airflow orchestration.
 
-**Tech:** Python, SQL, PostgreSQL, dbt, Airflow, Docker, GitHub Actions
+**Tech:** Python, SQL, Airflow, dbt, AWS S3, Redshift, PostgreSQL, Docker, GitHub Actions
 
-#### FlyDena: Smart Travel & Flight Price Predictor
-A travel website and AI-assisted flight price prediction concept combining APIs, automation, SEO, and web delivery.
+#### FlyDena
+Travel-focused web project that combines APIs, automation, SEO, and custom delivery workflows to support flight and hotel content experiences.
 
 **Tech:** Python, JavaScript, PHP, WordPress, REST APIs, SEO
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rihua/)
 - 🌐 [Portfolio](https://rihua-data-engineer.vercel.app/)
