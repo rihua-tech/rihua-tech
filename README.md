@@ -63,10 +63,10 @@ End-to-end data engineering pipeline for airline fare data with a local demo pat
 
 **Tech:** Python, SQL, Airflow, dbt, AWS S3, Redshift, PostgreSQL, Docker, GitHub Actions
 
-#### [FlyDena](https://flydena.com)
-Travel-focused web project that combines APIs, automation, SEO, and custom delivery workflows to support flight and hotel content experiences.
+#### [Sumryze – AI-Powered SEO Reporting Dashboard](https://github.com/rihua-tech/sumryze-saas-website)
+Full-stack SaaS-style analytics dashboard for automated SEO reporting and AI-generated insights. Includes a marketing site, auth-protected dashboard, modular API routes, analytics visualizations, and OpenAI-powered summaries.
 
-**Tech:** Python, JavaScript, PHP, WordPress, REST APIs, SEO
+**Tech:** Next.js, TypeScript, Tailwind CSS, OpenAI, REST APIs, Vercel
 
 ---
 
