@@ -5,6 +5,7 @@
   <strong>Data Engineer | Python • SQL • Azure • AWS • Databricks • Airflow • dbt</strong><br>
   I build reliable data pipelines, cloud lakehouse and warehouse solutions, and analytics-ready datasets with strong documentation, testing, and business-focused reporting.
 </p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -66,7 +67,9 @@ End-to-end data engineering pipeline for airline fare data with a local demo pat
 Travel-focused web project that combines APIs, automation, SEO, and custom delivery workflows to support flight and hotel content experiences.
 
 **Tech:** Python, JavaScript, PHP, WordPress, REST APIs, SEO
+
 ---
+
 
 ### 🌱 Currently Building
 
