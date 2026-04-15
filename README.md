@@ -77,6 +77,8 @@ Travel-focused web project that combines APIs, automation, SEO, and custom deliv
 - AWS-style batch pipelines with Airflow and dbt
 - Recruiter-ready project documentation, CI, and architecture diagrams
 
+---
+
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rihua/)
