@@ -2,9 +2,8 @@
 
 <p align="left">
   <strong>Data Engineer | Python • SQL • Azure • AWS • Databricks • Airflow • dbt</strong><br>
-  I build reliable data pipelines, cloud lakehouse and warehouse projects, and analytics-ready datasets with clear documentation, testing, and business-focused reporting.
-</p>
-
+  Building reliable pipelines and analytics-ready datasets
+ 
 ---
 
 ### 👨‍💻 About Me
