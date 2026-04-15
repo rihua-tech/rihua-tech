@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Rihua! 👋</h1>
 
 <p align="left">
-  <strong>Data Engineer | Python • SQL • Azure • Databricks • Airflow • dbt • Power BI</strong><br>
+  <strong>Data Engineer | Python • SQL • Azure • Databricks • AWS • Airflow • dbt • Power BI</strong><br>
   I build reliable data pipelines, cloud lakehouse projects, and analytics-ready datasets with clear documentation and business-focused reporting.
 </p>
 
@@ -19,7 +19,7 @@ My portfolio focuses on real-world data engineering projects using **Python, SQL
 
 ### 🔎 My Focus Areas
 
-- **Cloud Data Engineering:** Azure Data Lake, Databricks, PySpark, Delta Lake, and medallion architecture
+- **Cloud Data Engineering:** Azure Data Lake,AWS Redshift,Postgres, Databricks, PySpark, Delta Lake, and medallion architecture
 
 - **Data Pipelines:** API ingestion, batch processing, orchestration, scheduling, and workflow automation
 
