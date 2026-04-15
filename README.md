@@ -10,9 +10,9 @@
 
 I'm **Rihua Van Steenburgh**, a Data Engineer focused on building end-to-end data pipelines, cloud data platforms, and analytics-ready reporting layers.
 
-I am pursuing my **Master of Science in Data Analytics at Middle Georgia State University**, expected in **December 2026**. My background combines data analytics, web development, and cloud data engineering, which helps me understand both the technical pipeline and the business value behind the data.
+I am pursuing my **Master of Science in Data Analytics at Middle Georgia State University**, expected in **December 2026**. My background in data analytics, web development, and cloud data engineering helps me connect technical pipeline design with business reporting needs.
 
-My portfolio highlights real-world projects across both **Azure** and **AWS** environments, including medallion lakehouse design, batch data pipelines, orchestration, transformation, dimensional modeling, testing, CI, and reporting. I care about building projects that are reproducible, well-documented, and easy for recruiters and teams to understand.
+My portfolio features hands-on projects across **Azure** and **AWS**, including medallion lakehouse architecture, batch pipelines, orchestration, transformation, dimensional modeling, testing, CI, and reporting. I focus on building projects that are reproducible, well-documented, and easy for recruiters and teams to evaluate.
 
 ---
 
