@@ -1,9 +1,10 @@
-<h1 align="left">Hi, I'm Rihua! 👋</h1>
+
+ <h1 align="left">Hi, I'm Rihua! 👋</h1>
 
 <p align="left">
   <strong>Data Engineer | Python • SQL • Azure • AWS • Databricks • Airflow • dbt</strong><br>
-  Building reliable pipelines and analytics-ready datasets
- 
+  I build reliable data pipelines, cloud lakehouse and warehouse solutions, and analytics-ready datasets with strong documentation, testing, and business-focused reporting.
+</p>
 ---
 
 ### 👨‍💻 About Me
@@ -34,7 +35,7 @@ My portfolio features hands-on projects across **Azure** and **AWS**, including 
 
 - **Languages:** Python, SQL, basic JavaScript, PHP
 
-- **Cloud & Platforms:** Azure, ADLS Gen2, Azure Data Factory, Databricks, AWS S3, Redshift
+- **Cloud Data Engineering:** Azure Data Lake, Databricks, PySpark, Delta Lake, AWS S3, Redshift, and modern lakehouse and warehouse architecture
 
 - **Processing & Storage:** PySpark, Delta Lake, PostgreSQL, MySQL, CSV/JSON
 
@@ -48,24 +49,30 @@ My portfolio features hands-on projects across **Azure** and **AWS**, including 
 
 ---
 
+
 ### 🚀 Featured Projects
 
-#### NYC 311 Service Requests Lakehouse
+#### [NYC 311 Service Requests Lakehouse](https://github.com/rihua-tech/nyc-311-service-requests-lakehouse)
 Azure-first medallion lakehouse project for NYC 311 operational analytics. Ingests service request data, lands raw data in ADLS Gen2, processes Bronze/Silver/Gold layers in Databricks with PySpark and Delta Lake, and supports downstream reporting with marts and Power BI.
 
 **Tech:** Python, SQL, Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, Power BI, GitHub Actions
 
-#### Cloud Flight Fare Pipeline
+#### [Cloud Flight Fare Pipeline](https://github.com/rihua-tech/cloud-flight-fare-pipeline)
 End-to-end data engineering pipeline for airline fare data with a local demo path and a production-style AWS architecture. Covers ingestion, staging, transformation, warehouse loading, dbt modeling, analytics-ready marts, testing, and Airflow orchestration.
 
 **Tech:** Python, SQL, Airflow, dbt, AWS S3, Redshift, PostgreSQL, Docker, GitHub Actions
 
-#### FlyDena
+#### [FlyDena](https://flydena.com)
 Travel-focused web project that combines APIs, automation, SEO, and custom delivery workflows to support flight and hotel content experiences.
 
 **Tech:** Python, JavaScript, PHP, WordPress, REST APIs, SEO
-
 ---
+
+### 🌱 Currently Building
+
+- Azure + Databricks lakehouse portfolio projects
+- AWS-style batch pipelines with Airflow and dbt
+- Recruiter-ready project documentation, CI, and architecture diagrams
 
 ### 📫 Connect With Me
 
