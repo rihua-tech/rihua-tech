@@ -2,51 +2,54 @@
  <h1 align="left">Hi, I'm Rihua! 👋</h1>
 
 <p align="left">
-  <strong>Data Engineer | Python • SQL • Azure • AWS • Databricks • Airflow • dbt</strong><br>
-  I build reliable data pipelines, cloud lakehouse and warehouse solutions, and analytics-ready datasets with strong documentation, testing, and business-focused reporting.
+  <strong>Data Engineer | Python • SQL • Azure • AWS • Databricks • PySpark • dbt • RAG </strong><br>
+I build reliable data pipelines, cloud lakehouse and warehouse solutions, analytics-ready datasets, and AI/RAG-enabled data applications with strong documentation, testing, and business-focused reporting.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm **Rihua Van Steenburgh**, a Data Engineer focused on building end-to-end data pipelines, cloud data platforms, and analytics-ready reporting layers.
+I’m **Rihua Van Steenburgh**, a Data Engineer focused on building end-to-end data pipelines, cloud data platforms, analytics-ready datasets, and AI/RAG-enabled data applications.
 
-I am pursuing my **Master of Science in Data Analytics at Middle Georgia State University**, expected in **December 2026**. My background in data analytics, web development, and cloud data engineering helps me connect technical pipeline design with business reporting needs.
+I am pursuing a **Master of Science in Data Analytics at Middle Georgia State University**, expected in **December 2026**. My background in data analytics, web development, and cloud data engineering helps me connect technical pipeline design with business reporting needs.
 
-My portfolio features hands-on projects across **Azure** and **AWS**, including medallion lakehouse architecture, batch pipelines, orchestration, transformation, dimensional modeling, testing, CI, and reporting. I focus on building projects that are reproducible, well-documented, and easy for recruiters and teams to evaluate.
+My portfolio features hands-on projects across **Azure**, **AWS**, Databricks, PySpark, SQL, dbt, Redshift, Docker,PostgreSQL/pgvector, and RAG. I focus on building projects that are reproducible, well-documented, tested, and easy for recruiters and teams to evaluate.
 
 ---
 
 ### 🔎 What I Focus On
 
-- **Cloud Data Engineering:** Azure Data Lake, Databricks, PySpark, Delta Lake, AWS S3, Redshift, and modern lakehouse/warehouse architecture
 
+- **Cloud Data Engineering:** Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, AWS S3, Redshift Serverless
+  
 - **Data Pipelines:** API ingestion, batch processing, orchestration, scheduling, and workflow automation
 
-- **Data Modeling:** Bronze/Silver/Gold layers, dimensional modeling, star schema design, fact and dimension tables, and analytics marts
+- **Data Modeling:** Bronze/Silver/Gold layers, dimensional modeling, star schema, fact/dimension tables, and analytics marts
 
-- **Data Quality & Reliability:** validation checks, testing, clean transformations, CI workflows, and production-minded documentation
+- **Data Quality & Reliability:** validation checks, testing, clean transformations, CI workflows, runbooks, and documentation
 
-- **BI & Communication:** Power BI dashboards, KPI reporting, project runbooks, architecture diagrams, and clear technical storytelling
+- **AI Data Engineering:** document ingestion, chunking, embeddings, PostgreSQL/pgvector, vector search, RAG, and cited answers
+
+- **BI & Communication:** Power BI dashboards, KPI reporting, architecture diagrams, and clear technical storytelling
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Languages:** Python, SQL, basic JavaScript, PHP
-
-- **Cloud Data Engineering:** Azure Data Lake, Databricks, PySpark, Delta Lake, AWS S3, Redshift, and modern lakehouse and warehouse architecture
-
-- **Processing & Storage:** PySpark, Delta Lake, PostgreSQL, MySQL, CSV/JSON
-
-- **Orchestration & Transformation:** Airflow, dbt, GitHub Actions
-
-- **Data Modeling & BI:** Dimensional Modeling, Star Schema, Power BI, DAX, Power Query
-
-- **Developer Tools:** Git, GitHub, Docker, Jupyter, VS Code
-
-- **Web & APIs:** REST APIs, JSON, WordPress
+- **Languages:** Python, SQL, R, JavaScript, TypeScript
+  
+- **Cloud & Data Platforms:** Azure Data Factory, ADLS Gen2, Databricks, AWS S3, Redshift Serverless, ECS/Fargate, EventBridge, CloudWatch
+  
+- **Processing & Modeling:** PySpark, Delta Lake, dbt, PostgreSQL, dimensional modeling, star schema
+  
+- **AI / RAG:** document ingestion, chunking, embeddings, PostgreSQL/pgvector, vector search, retrieval-augmented generation, cited answers
+  
+- **Orchestration & CI/CD:** Airflow, GitHub Actions, workflow automation, validation checks
+  
+- **BI & Tools:** Power BI, DAX, Docker, Git/GitHub, Jupyter Notebook, VS Code
+  
+- **Web & APIs:** REST APIs, JSON, CSV, WordPress
 
 ---
 
@@ -54,19 +57,19 @@ My portfolio features hands-on projects across **Azure** and **AWS**, including 
 ### 🚀 Featured Projects
 
 #### [NYC 311 Service Requests Lakehouse](https://github.com/rihua-tech/nyc-311-service-requests-lakehouse)
-Azure-first medallion lakehouse project for NYC 311 operational analytics. Ingests service request data, lands raw data in ADLS Gen2, processes Bronze/Silver/Gold layers in Databricks with PySpark and Delta Lake, and supports downstream reporting with marts and Power BI.
+Azure data engineering lakehouse for NYC 311 operational analytics. Ingests service request data using Azure Data Factory, lands raw data in ADLS Gen2, and processes Bronze, Silver, and Gold Delta Lake layers in Databricks with Python/PySpark and SQL. Produces analytics-ready dimensions, fact tables, validation checks, Gold marts, runbooks, architecture notes, and cloud execution proof.
 
-**Tech:** Python, SQL, Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, Power BI, GitHub Actions
+**Tech:** Python, SQL, Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, GitHub Actions, Power BI-ready outputs
 
 #### [Cloud Flight Fare Pipeline](https://github.com/rihua-tech/cloud-flight-fare-pipeline)
-End-to-end data engineering pipeline for airline fare data with a local demo path and a production-style AWS architecture. Covers ingestion, staging, transformation, warehouse loading, dbt modeling, analytics-ready marts, testing, and Airflow orchestration.
+AWS batch data pipeline for external flight fare API data. Runs Python container jobs with Docker and ECS/Fargate, lands raw data in S3 Bronze, loads Redshift Serverless, and transforms data with SQL-based dbt staging models, dimensional marts, and tests. Documents CloudWatch proof logs, CI checks, architecture diagrams, runbooks, and cost/secret safety notes
 
-**Tech:** Python, SQL, Airflow, dbt, AWS S3, Redshift, PostgreSQL, Docker, GitHub Actions
+**Tech:**Python, SQL, Docker, ECS/Fargate, EventBridge Scheduler, S3, Redshift Serverless, dbt, CloudWatch, GitHub Actions
 
 #### [Sumryze – AI-Powered SEO Reporting Dashboard](https://github.com/rihua-tech/sumryze-saas-website)
-Full-stack SaaS-style analytics dashboard for automated SEO reporting and AI-generated insights. Includes a marketing site, auth-protected dashboard, modular API routes, analytics visualizations, and OpenAI-powered summaries.
+Local AI data engineering and RAG copilot for NYC 311 documentation. Ingests curated documents, chunks source text, stores embeddings in PostgreSQL/pgvector, retrieves cited context, and presents grounded answers in a Streamlit UI with source citations, retrieved chunk previews, Dockerized pgvector setup, pytest coverage, GitHub Actions CI, and an 18-question evaluation set.
 
-**Tech:** Next.js, TypeScript, Tailwind CSS, OpenAI, REST APIs, Vercel
+**Tech:** Python, PostgreSQL, pgvector, Streamlit, Docker, embeddings, vector search, RAG, pytest, GitHub Actions
 
 ---
 
