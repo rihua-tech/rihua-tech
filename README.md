@@ -3,6 +3,7 @@
 
 <p align="left">
   <strong>Data Engineer | Python • SQL • Azure • AWS • Databricks • PySpark • dbt • RAG </strong><br>
+ 
 I build reliable data pipelines, cloud lakehouse and warehouse solutions, analytics-ready datasets, and AI/RAG-enabled data applications with strong documentation, testing, and business-focused reporting.
 </p>
 
