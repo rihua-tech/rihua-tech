@@ -64,9 +64,9 @@ Azure data engineering lakehouse for NYC 311 operational analytics. Ingests serv
 #### [Cloud Flight Fare Pipeline](https://github.com/rihua-tech/cloud-flight-fare-pipeline)
 AWS batch data pipeline for external flight fare API data. Runs Python container jobs with Docker and ECS/Fargate, lands raw data in S3 Bronze, loads Redshift Serverless, and transforms data with SQL-based dbt staging models, dimensional marts, and tests. Documents CloudWatch proof logs, CI checks, architecture diagrams, runbooks, and cost/secret safety notes
 
-**Tech:**Python, SQL, Docker, ECS/Fargate, EventBridge Scheduler, S3, Redshift Serverless, dbt, CloudWatch, GitHub Actions
+**Tech:** Python, SQL, Docker, ECS/Fargate, EventBridge Scheduler, S3, Redshift Serverless, dbt, CloudWatch, GitHub Actions
 
-#### [Sumryze – AI-Powered SEO Reporting Dashboard](https://github.com/rihua-tech/sumryze-saas-website)
+#### [CivicLens RAG - NYC 311 Operations Copilot]( https://github.com/rihua-tech/civiclens-rag-nyc311 )
 Local AI data engineering and RAG copilot for NYC 311 documentation. Ingests curated documents, chunks source text, stores embeddings in PostgreSQL/pgvector, retrieves cited context, and presents grounded answers in a Streamlit UI with source citations, retrieved chunk previews, Dockerized pgvector setup, pytest coverage, GitHub Actions CI, and an 18-question evaluation set.
 
 **Tech:** Python, PostgreSQL, pgvector, Streamlit, Docker, embeddings, vector search, RAG, pytest, GitHub Actions
@@ -76,16 +76,16 @@ Local AI data engineering and RAG copilot for NYC 311 documentation. Ingests cur
 
 ### 🌱 Currently Building
 
-- Azure + Databricks lakehouse portfolio projects
-- AWS-style batch pipelines with Airflow and dbt
-- Recruiter-ready project documentation, CI, and architecture diagrams
+- Improving cloud data engineering portfolio projects with Azure, AWS, Databricks, dbt, CI, tests, and runbooks
+- Expanding AI data engineering work with RAG, PostgreSQL/pgvector, cited answers, and evaluation sets
+- Building recruiter-ready project documentation, architecture diagrams, and case studies
 
 ---
 
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rihua/)
-- 🌐 [Portfolio](https://rihua-data-engineer.vercel.app/)
+- 🌐 [Portfolio]( https://rihua-dev.vercel.app/)
 - 🧑‍💻 [GitHub](https://github.com/rihua-tech)
 
 ---
