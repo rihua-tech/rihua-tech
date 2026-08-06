@@ -84,7 +84,7 @@ through a Streamlit interface.
 **Tech:** Python, PostgreSQL, pgvector, embeddings, vector search,
 RAG, Streamlit, Docker, pytest, GitHub Actions
 
-#### Financial Complaint Auto-Routing with NLP
+#### Financial Complaint Auto-Routing with NLP ( https://github.com/rihua-tech/financial-complaint-auto-routing-nlp )
 
 Leakage-safe eight-class CFPB complaint-routing study comparing a
 TF-IDF and Linear SVM benchmark with a frozen DistilBERT challenger.
