@@ -1,38 +1,54 @@
 
- <h1 align="left">Hi, I'm Rihua! 👋</h1>
+<h1 align="left">Hi, I'm Rihua! 👋</h1>
 
 <p align="left">
-  <strong>Data Engineer | Python • SQL • Azure • AWS • Databricks • PySpark • dbt • RAG </strong><br>
- 
-I build reliable cloud data pipelines, lakehouse and warehouse solutions, analytics-ready datasets, and AI/RAG-enabled data applications with strong documentation, testing, and business-focused reporting.
+  <strong>Data & AI Engineer | Cloud Data Platforms • Applied ML/NLP • RAG</strong>
 </p>
+
+I build reliable cloud data pipelines, analytics-ready datasets,
+machine learning systems, and source-grounded AI applications using
+Python, SQL, Azure, AWS, Databricks, PySpark, dbt,
+PostgreSQL/pgvector, scikit-learn, PyTorch, and Transformers.
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m **Rihua Van Steenburgh**, a Data Engineer focused on building end-to-end data pipelines, cloud data platforms, analytics-ready datasets, and AI/RAG-enabled data applications.
+I’m Rihua Van Steenburgh, a Data and AI Engineer focused on building
+reliable cloud data platforms, analytics-ready datasets, applied
+machine learning systems, and source-grounded RAG applications.
 
-I am pursuing a **Master of Science in Data Analytics at Middle Georgia State University**, expected in **December 2026**. My background in data analytics, web development, and cloud data engineering helps me connect technical pipeline design with business reporting needs.
+I am pursuing a **Master of Science in Information Technology with a
+Data Analytics concentration at Middle Georgia State University**,
+expected in **December 2026**. I also hold an **Associate of Applied Science
+in Website Design/Development**, which helps me connect data and AI
+backends with practical user-facing applications.
 
-My portfolio features hands-on projects across **Azure**, **AWS**, Databricks, PySpark, SQL, dbt, Redshift, Docker,PostgreSQL/pgvector, and RAG. I focus on building projects that are reproducible, well-documented, tested, and easy for recruiters and teams to evaluate.
+My portfolio combines cloud data engineering, analytics engineering,
+NLP model evaluation, and Generative AI application development.
+I focus on reproducible workflows, honest evaluation, testing,
+documentation, and clear technical communication.
 
 ---
 
 ### 🔎 What I Focus On
 
 
-- **Cloud Data Engineering:** Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, AWS S3, Redshift Serverless
-  
-- **Data Pipelines:** API ingestion, batch processing, orchestration, scheduling, and workflow automation
+- **Cloud Data Engineering:** API ingestion, Azure Data Factory,
+  ADLS Gen2, Databricks, PySpark, Delta Lake, AWS S3,
+  ECS/Fargate, Redshift Serverless, and dbt
 
-- **Data Modeling:** Bronze/Silver/Gold layers, dimensional modeling, star schema, fact/dimension tables, and analytics marts
+- **Applied Machine Learning & NLP:** scikit-learn, TF-IDF,
+  Linear SVM, PyTorch, Transformers, DistilBERT,
+  leakage-safe evaluation, and error analysis
 
-- **Data Quality & Reliability:** validation checks, testing, clean transformations, CI workflows, runbooks, and documentation
+- **Generative AI & RAG:** document ingestion, chunking,
+  embeddings, PostgreSQL/pgvector, vector retrieval,
+  source-grounded answers, citations, and safe no-answer behavior
 
-- **AI Data Engineering:** document ingestion, chunking, embeddings, PostgreSQL/pgvector, vector search, RAG, and cited answers
-
-- **BI & Communication:** Power BI dashboards, KPI reporting, architecture diagrams, and clear technical storytelling
+- **Analytics Engineering & Reliability:** SQL, dimensional modeling,
+  analytics marts, data validation, pytest, GitHub Actions,
+  Docker, evaluation, runbooks, and technical documentation
 
 ---
 
@@ -57,36 +73,60 @@ My portfolio features hands-on projects across **Azure**, **AWS**, Databricks, P
 
 ### 🚀 Featured Projects
 
-#### [NYC 311 Service Requests Lakehouse](https://github.com/rihua-tech/nyc-311-service-requests-lakehouse)
-Azure data engineering lakehouse for NYC 311 operational analytics. Ingests service request data using Azure Data Factory, lands raw data in ADLS Gen2, and processes Bronze, Silver, and Gold Delta Lake layers in Databricks with Python/PySpark and SQL. Produces analytics-ready dimensions, fact tables, validation checks, Gold marts, runbooks, architecture notes, and cloud execution proof.
 
-**Tech:** Python, SQL, Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, GitHub Actions, Power BI-ready outputs
+#### CivicLens RAG — NYC 311 Operations Copilot ( https://github.com/rihua-tech/civiclens-rag-nyc311 )
 
-#### [Cloud Flight Fare Pipeline](https://github.com/rihua-tech/cloud-flight-fare-pipeline)
-AWS batch data pipeline for external flight fare API data. Runs Python container jobs with Docker and ECS/Fargate, lands raw data in S3 Bronze, loads Redshift Serverless, and transforms data with SQL-based dbt staging models, dimensional marts, and tests. Documents CloudWatch proof logs, CI checks, architecture diagrams, runbooks, and cost/secret safety notes
+Hybrid RAG application that ingests curated NYC 311 documentation,
+stores embeddings in PostgreSQL/pgvector, retrieves cited context,
+routes approved analytics questions, and presents grounded answers
+through a Streamlit interface.
 
-**Tech:** Python, SQL, Docker, ECS/Fargate, EventBridge Scheduler, S3, Redshift Serverless, dbt, CloudWatch, GitHub Actions
+**Tech:** Python, PostgreSQL, pgvector, embeddings, vector search,
+RAG, Streamlit, Docker, pytest, GitHub Actions
 
-#### [CivicLens RAG - NYC 311 Operations Copilot]( https://github.com/rihua-tech/civiclens-rag-nyc311 )
-Local AI data engineering and RAG copilot for NYC 311 documentation. Ingests curated documents, chunks source text, stores embeddings in PostgreSQL/pgvector, retrieves cited context, and presents grounded answers in a Streamlit UI with source citations, retrieved chunk previews, Dockerized pgvector setup, pytest coverage, GitHub Actions CI, and an 18-question evaluation set.
+#### Financial Complaint Auto-Routing with NLP
 
-**Tech:** Python, PostgreSQL, pgvector, Streamlit, Docker, embeddings, vector search, RAG, pytest, GitHub Actions
+Leakage-safe eight-class CFPB complaint-routing study comparing a
+TF-IDF and Linear SVM benchmark with a frozen DistilBERT challenger.
+The project includes group-aware splits, model evaluation,
+selective routing, and Human Review policies.
+
+**Tech:** Python, scikit-learn, TF-IDF, Linear SVM, PyTorch,
+Transformers, DistilBERT, model evaluation
+
+#### NYC 311 Service Requests Lakehouse (https://github.com/rihua-tech/nyc-311-service-requests-lakehouse)
+
+Azure lakehouse pipeline using Azure Data Factory, ADLS Gen2,
+Databricks, PySpark, SQL, and Delta Lake to produce validated
+Bronze, Silver, Gold, fact, dimension, and analytics-mart outputs.
+
+#### Cloud Flight Fare Pipeline (https://github.com/rihua-tech/cloud-flight-fare-pipeline)
+
+AWS batch data pipeline using Docker, ECS/Fargate, EventBridge,
+S3, Redshift Serverless, SQL, and dbt with data-quality tests,
+CI checks, runbooks, and cloud execution proof.
 
 ---
 
 
 ### 🌱 Currently Building
 
-- Improving cloud data engineering portfolio projects with Azure, AWS, Databricks, dbt, CI, tests, and runbooks
-- Expanding AI data engineering work with RAG, PostgreSQL/pgvector, cited answers, and evaluation sets
-- Building recruiter-ready project documentation, architecture diagrams, and case studies
+I am upgrading CivicLens from a local Hybrid RAG prototype into a
+more complete AI application with:
 
+- a versioned FastAPI backend;
+- an optional real LLM provider;
+- citation validation and safe provider-error handling;
+- repeatable RAG and LLM evaluation reports;
+- query, retrieval, and feedback logging;
+- Dockerized Streamlit, API, and PostgreSQL/pgvector services;
+- optional bounded agent and analytics-tool routing.
 ---
 
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rihua/)
-- 🌐 [Portfolio]( https://rihua-dev.vercel.app/)
+- 🌐 [Portfolio](https://rihua.dev/)
 - 🧑‍💻 [GitHub](https://github.com/rihua-tech)
 
 ---
