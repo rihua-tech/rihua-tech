@@ -73,13 +73,13 @@ Hosted, non-production hybrid RAG application for grounded NYC 311 documentation
 
 **Tech:** Python, PostgreSQL, pgvector, embeddings, vector search,RAG, Streamlit, Docker, pytest, GitHub Actions
 
-#### NYC 311 Service Requests Lakehouse (https://github.com/rihua-tech/nyc-311-service-requests-lakehouse)
+### NYC 311 Service Requests Lakehouse (https://github.com/rihua-tech/nyc-311-service-requests-lakehouse)
 
 Azure lakehouse pipeline using Azure Data Factory, ADLS Gen2,
 Databricks, PySpark, SQL, and Delta Lake to produce validated
 Bronze, Silver, Gold, fact, dimension, and analytics-mart outputs.
 
-#### Cloud Flight Fare Pipeline (https://github.com/rihua-tech/cloud-flight-fare-pipeline)
+### Cloud Flight Fare Pipeline (https://github.com/rihua-tech/cloud-flight-fare-pipeline)
 
 AWS batch data pipeline using Docker, ECS/Fargate, EventBridge,
 S3, Redshift Serverless, SQL, and dbt with data-quality tests,
