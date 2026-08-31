@@ -1,15 +1,3 @@
-
-<h1 align="left">Hi, I'm Rihua! 👋</h1>
-
-<p align="left">
-  <strong>Data Scientist | Applied AI • NLP • Model Evaluation • RAG</strong>
-</p>
-
-I build reliable cloud data pipelines, analytics-ready datasets,
-machine learning systems, and source-grounded AI applications using
-Python, SQL, Azure, AWS, Databricks, PySpark, dbt,
-PostgreSQL/pgvector, scikit-learn, PyTorch, and Transformers.
-
 # Hi, I'm Rihua! 👋
 
 **Data Scientist | Applied AI • NLP • Model Evaluation • RAG**
@@ -18,22 +6,16 @@ I build applied data science and AI projects focused on NLP, model evaluation, r
 
 ---
 
-### 👨‍💻 About Me
+## 👩‍💻 About Me
 
-I’m Rihua Van Steenburgh, a Data and AI Engineer focused on building
-reliable cloud data platforms, analytics-ready datasets, applied
-machine learning systems, and source-grounded RAG applications.
+I'm Rihua Van Steenburgh, a Data Scientist focused on applied AI, NLP, model evaluation, and retrieval systems.
 
-I am pursuing a **Master of Science in Information Technology with a
-Data Analytics concentration at Middle Georgia State University**,
-expected in **December 2026**. I also hold an **Associate of Applied Science
-in Website Design/Development**, which helps me connect data and AI
-backends with practical user-facing applications.
+My portfolio emphasizes leakage-safe validation, model comparison, temporal evaluation, error and failure analysis, human-in-the-loop decision making, retrieval quality, and grounded AI applications.
 
-My portfolio combines cloud data engineering, analytics engineering,
-NLP model evaluation, and Generative AI application development.
-I focus on reproducible workflows, honest evaluation, testing,
-documentation, and clear technical communication.
+I'm currently pursuing a **Master of Science in Information Technology with a Data Analytics concentration at Middle Georgia State University**, expected in **December 2026**.
+
+I also bring hands-on cloud data engineering experience with Azure, AWS, Databricks, PySpark, dbt, and data pipelines, giving me a strong data foundation for building and evaluating AI systems.
+
 
 ---
 
