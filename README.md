@@ -19,68 +19,59 @@ I also bring hands-on cloud data engineering experience with Azure, AWS, Databri
 
 ---
 
-### 🔎 What I Focus On
+## 🔎 What I Focus On
 
+- **Applied Data Science & NLP:** scikit-learn, TF-IDF, Linear SVM, PyTorch, Transformers, DistilBERT, text classification, and leakage-safe evaluation
 
-- **Cloud Data Engineering:** API ingestion, Azure Data Factory,
-  ADLS Gen2, Databricks, PySpark, Delta Lake, AWS S3,
-  ECS/Fargate, Redshift Serverless, and dbt
+- **Model Evaluation:** model comparison, temporal validation, group-aware validation, error analysis, failure analysis, routing metrics, and human-in-the-loop decision policies
 
-- **Applied Machine Learning & NLP:** scikit-learn, TF-IDF,
-  Linear SVM, PyTorch, Transformers, DistilBERT,
-  leakage-safe evaluation, and error analysis
+- **Retrieval & Applied AI:** hybrid retrieval, PostgreSQL/pgvector, full-text search, RRF, grounded generation, citation validation, abstention handling, and retrieval evaluation
 
-- **Generative AI & RAG:** document ingestion, chunking,
-  embeddings, PostgreSQL/pgvector, vector retrieval,
-  source-grounded answers, citations, and safe no-answer behavior
-
-- **Analytics Engineering & Reliability:** SQL, dimensional modeling,
-  analytics marts, data validation, pytest, GitHub Actions,
-  Docker, evaluation, runbooks, and technical documentation
+- **Data & Cloud Foundations:** Azure, AWS, Databricks, PySpark, dbt, SQL, data pipelines, data quality, Docker, and GitHub Actions
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Skills & Methods
 
-- **Languages:** Python, SQL, R, JavaScript, TypeScript
-  
-- **Cloud & Data Platforms:** Azure Data Factory, ADLS Gen2, Databricks, AWS S3, Redshift Serverless, ECS/Fargate, EventBridge, CloudWatch
-  
-- **Processing & Modeling:** PySpark, Delta Lake, dbt, PostgreSQL, dimensional modeling, star schema
-  
-- **AI / RAG:** document ingestion, chunking, embeddings, PostgreSQL/pgvector, vector search, retrieval-augmented generation, cited answers
-  
-- **Orchestration & CI/CD:** Airflow, GitHub Actions, workflow automation, validation checks
-  
-- **BI & Tools:** Power BI, DAX, Docker, Git/GitHub, Jupyter Notebook, VS Code
-  
-- **Web & APIs:** REST APIs, JSON, CSV, WordPress
+- **Programming & Analysis:** Python, SQL, pandas, NumPy, Statistical Analysis
+
+- **Machine Learning & NLP:** scikit-learn, TF-IDF, Linear SVM, PyTorch, Transformers, DistilBERT, Text Classification
+
+- **Model Evaluation:** Macro F1, Accuracy, Model Comparison, Error Analysis, Leakage-Safe Validation, Group-Aware Validation, Temporal Validation
+
+- **Applied AI & RAG:** FastAPI, PostgreSQL/pgvector, Embeddings, Vector Search, Full-Text Search, Reciprocal Rank Fusion (RRF), Retrieval Evaluation, Grounded Generation, Citation Validation
+
+- **Data & Cloud:** Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, dbt, AWS, Redshift Serverless
+
+- **Engineering & Tools:** Docker, Git/GitHub, GitHub Actions, Airflow, Jupyter Notebook, Power BI
+
 
 ---
 
 
 ### 🚀 Featured Projects
 
+### Financial Complaint Auto-Routing with NLP ( https://github.com/rihua-tech/financial-complaint-auto-routing-nlp )
 
-#### CivicLens RAG — NYC 311 Operations Copilot ( https://github.com/rihua-tech/civiclens-rag-nyc311 )
+Leakage-safe CFPB complaint-classification and selective-routing study comparing TF-IDF + Linear SVM with a frozen DistilBERT challenger.
 
-Hybrid RAG application that ingests curated NYC 311 documentation,
-stores embeddings in PostgreSQL/pgvector, retrieves cited context,
-routes approved analytics questions, and presents grounded answers
-through a Streamlit interface.
+- Identified 39.39% normalized-text leakage in the original test split and redesigned evaluation to achieve zero development/test overlap
+- Compared classical NLP and transformer approaches using classification, coverage, routed accuracy, and misroute metrics
+- Added human-review routing and retrospective temporal evaluation
+- Retained V1 as the temporally validated benchmark while documenting V2 trade-offs
 
-**Tech:** Python, PostgreSQL, pgvector, embeddings, vector search,
-RAG, Streamlit, Docker, pytest, GitHub Actions
+**Tech:** Python, scikit-learn, TF-IDF, Linear SVM, PyTorch,Transformers, DistilBERT, model evaluation
 
-#### Financial Complaint Auto-Routing with NLP ( https://github.com/rihua-tech/financial-complaint-auto-routing-nlp )
+### CivicLens RAG — NYC 311 Operations Copilot ( https://github.com/rihua-tech/civiclens-rag-nyc311 )
 
-Leakage-safe eight-class CFPB complaint-routing study comparing a
-TF-IDF and Linear SVM benchmark with a frozen DistilBERT challenger.
-The project includes group-aware splits, model evaluation,
-selective routing, and Human Review policies.
+Hosted, non-production hybrid RAG application for grounded NYC 311 documentation Q&A and bounded analytics.
 
-**Tech:** Python, scikit-learn, TF-IDF, Linear SVM, PyTorch,
-Transformers, DistilBERT, model evaluation
+- Combines semantic retrieval with PostgreSQL full-text search using deterministic Reciprocal Rank Fusion
+- Uses PostgreSQL/pgvector, FastAPI, validated citations, explicit abstention handling, and bounded analytics
+- Hybrid retrieval reached 83.9% Recall@5 and 92.9% expected-source retrieval on the approved local evaluation
+- Includes retrieval experiments, failure analysis, and a hosted Vercel → Render → Neon application path
+
+**Tech:** Python, PostgreSQL, pgvector, embeddings, vector search,RAG, Streamlit, Docker, pytest, GitHub Actions
 
 #### NYC 311 Service Requests Lakehouse (https://github.com/rihua-tech/nyc-311-service-requests-lakehouse)
 
@@ -96,20 +87,6 @@ CI checks, runbooks, and cloud execution proof.
 
 ---
 
-
-### 🌱 Currently Building
-
-I am upgrading CivicLens from a local Hybrid RAG prototype into a
-more complete AI application with:
-
-- a versioned FastAPI backend;
-- an optional real LLM provider;
-- citation validation and safe provider-error handling;
-- repeatable RAG and LLM evaluation reports;
-- query, retrieval, and feedback logging;
-- Dockerized Streamlit, API, and PostgreSQL/pgvector services;
-- optional bounded agent and analytics-tool routing.
----
 
 ### 📫 Connect With Me
 
