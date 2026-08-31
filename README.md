@@ -2,13 +2,19 @@
 <h1 align="left">Hi, I'm Rihua! 👋</h1>
 
 <p align="left">
-  <strong>Data & AI Engineer | Cloud Data Platforms • Applied ML/NLP • RAG</strong>
+  <strong>Data Scientist | Applied AI • NLP • Model Evaluation • RAG</strong>
 </p>
 
 I build reliable cloud data pipelines, analytics-ready datasets,
 machine learning systems, and source-grounded AI applications using
 Python, SQL, Azure, AWS, Databricks, PySpark, dbt,
 PostgreSQL/pgvector, scikit-learn, PyTorch, and Transformers.
+
+# Hi, I'm Rihua! 👋
+
+**Data Scientist | Applied AI • NLP • Model Evaluation • RAG**
+
+I build applied data science and AI projects focused on NLP, model evaluation, retrieval systems, and measurable decision-support workflows using Python, SQL, scikit-learn, PyTorch, Transformers, PostgreSQL/pgvector, and FastAPI.
 
 ---
 
