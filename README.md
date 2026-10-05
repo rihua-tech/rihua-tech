@@ -17,33 +17,6 @@ I also bring hands-on software development, cloud, and data engineering experien
 
 ---
 
-## 🔎 What I Focus On
-
-- **Data Science & Machine Learning:** predictive modeling, scikit-learn, PyTorch, Transformers, NLP, classification, statistical analysis
-- **Applied AI & Retrieval:** LLM applications, RAG, embeddings, hybrid retrieval, PostgreSQL/pgvector, RRF, grounded generation, citation validation
-- **Model & LLM Evaluation:** leakage-safe validation, temporal evaluation, model comparison, retrieval evaluation, error/failure analysis, abstention
-- **Data & Cloud Engineering:** AWS, Azure, Databricks, PySpark, dbt, SQL, data pipelines, data quality
-- **Software & Production:** FastAPI, Docker, GitHub Actions, testing, APIs, CI/CD
-
----
-
-## 🧰 Skills & Methods
-
-- **Programming & Analysis:** Python, SQL, pandas, NumPy, Statistical Analysis
-
-- **Machine Learning & NLP:** scikit-learn, TF-IDF, Linear SVM, PyTorch, Transformers, DistilBERT, Text Classification
-
-- **Model Evaluation:** Macro F1, Accuracy, Model Comparison, Error Analysis, Leakage-Safe Validation, Group-Aware Validation, Temporal Validation
-
-- **Applied AI & RAG:** FastAPI, PostgreSQL/pgvector, Embeddings, Vector Search, Full-Text Search, Reciprocal Rank Fusion (RRF), Retrieval Evaluation, Grounded Generation, Citation Validation
-
-- **Data & Cloud:** Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, dbt, AWS, Redshift Serverless
-
-- **Engineering & Tools:** Docker, Git/GitHub, GitHub Actions, Airflow, Jupyter Notebook, Power BI
-
-
----
-
 
 ## 🚀 Featured Projects
 
@@ -82,6 +55,15 @@ S3, Redshift Serverless, SQL, and dbt with data-quality tests,
 CI checks, runbooks, and cloud execution proof.
 
 ---
+
+## 🧰 Skills & 🔎 Focus Areas
+
+- **Data Science & Machine Learning:** Python, SQL, pandas, scikit-learn, PyTorch, Transformers, NLP, predictive modeling, statistical analysis
+- **Applied AI & RAG:** LLM applications, embeddings, PostgreSQL/pgvector, hybrid retrieval, RRF, grounded generation, citation validation
+- **Model & LLM Evaluation:** Macro F1, model comparison, leakage-safe validation, temporal validation, retrieval evaluation, error/failure analysis, abstention
+- **Data & Cloud Engineering:** AWS, Azure, Databricks, PySpark, dbt, SQL, data pipelines, data quality
+- **Software & Production:** FastAPI, Docker, GitHub Actions, testing, APIs, CI/CD
+
 
 
 ### 📫 Connect With Me
