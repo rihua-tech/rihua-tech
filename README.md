@@ -1,33 +1,29 @@
 # Hi, I'm Rihua! 👋
 
-**Data Scientist | Applied AI • NLP • Model Evaluation • RAG**
+**Data Scientist | Applied AI & Machine Learning | NLP • RAG • LLM Evaluation**
 
-I build applied data science and AI projects focused on NLP, model evaluation, retrieval systems, and measurable decision-support workflows using Python, SQL, scikit-learn, PyTorch, Transformers, PostgreSQL/pgvector, and FastAPI.
+I build production-oriented data science, machine learning, and generative AI applications, with a focus on NLP, RAG retrieval systems, model/LLM evaluation, and reliable decision support. My work spans Python, SQL, PyTorch, Transformers, PostgreSQL/pgvector, FastAPI, cloud data platforms, and AI evaluation.
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm Rihua Van Steenburgh, a Data Scientist focused on applied AI, NLP, model evaluation, and retrieval systems.
+I'm Rihua Van Steenburgh, a Data Scientist focused on applied AI, machine learning, and NLP. I build and evaluate ML and generative AI applications spanning predictive modeling, retrieval, RAG, LLM evaluation, and data-driven decision support.
 
-My portfolio emphasizes leakage-safe validation, model comparison, temporal evaluation, error and failure analysis, human-in-the-loop decision making, retrieval quality, and grounded AI applications.
+I'm currently pursuing an M.S. in Information Technology with a Data Analytics concentration at Middle Georgia State University, expected December 2026.
 
-I'm currently pursuing a **Master of Science in Information Technology with a Data Analytics concentration at Middle Georgia State University**, expected in **December 2026**.
-
-I also bring hands-on cloud data engineering experience with Azure, AWS, Databricks, PySpark, dbt, and data pipelines, giving me a strong data foundation for building and evaluating AI systems.
+I also bring hands-on software development, cloud, and data engineering experience with FastAPI, PostgreSQL, AWS, Azure, Databricks, PySpark, dbt, and production-oriented data pipelines.
 
 
 ---
 
 ## 🔎 What I Focus On
 
-- **Applied Data Science & NLP:** scikit-learn, TF-IDF, Linear SVM, PyTorch, Transformers, DistilBERT, text classification, and leakage-safe evaluation
-
-- **Model Evaluation:** model comparison, temporal validation, group-aware validation, error analysis, failure analysis, routing metrics, and human-in-the-loop decision policies
-
-- **Retrieval & Applied AI:** hybrid retrieval, PostgreSQL/pgvector, full-text search, RRF, grounded generation, citation validation, abstention handling, and retrieval evaluation
-
-- **Data & Cloud Foundations:** Azure, AWS, Databricks, PySpark, dbt, SQL, data pipelines, data quality, Docker, and GitHub Actions
+- **Data Science & Machine Learning:** predictive modeling, scikit-learn, PyTorch, Transformers, NLP, classification, statistical analysis
+- **Applied AI & Retrieval:** LLM applications, RAG, embeddings, hybrid retrieval, PostgreSQL/pgvector, RRF, grounded generation, citation validation
+- **Model & LLM Evaluation:** leakage-safe validation, temporal evaluation, model comparison, retrieval evaluation, error/failure analysis, abstention
+- **Data & Cloud Engineering:** AWS, Azure, Databricks, PySpark, dbt, SQL, data pipelines, data quality
+- **Software & Production:** FastAPI, Docker, GitHub Actions, testing, APIs, CI/CD
 
 ---
 
