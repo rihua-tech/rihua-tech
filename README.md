@@ -20,7 +20,7 @@ I also bring hands-on software development, cloud, and data engineering experien
 
 ## 🚀 Featured Projects
 
-### Financial Complaint Auto-Routing with NLP ( https://github.com/rihua-tech/financial-complaint-auto-routing-nlp )
+### [Financial Complaint Auto-Routing with NLP](https://github.com/rihua-tech/financial-complaint-auto-routing-nlp)
 
 Leakage-safe CFPB complaint-classification and selective-routing study comparing TF-IDF + Linear SVM with a frozen DistilBERT challenger.
 
