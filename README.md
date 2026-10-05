@@ -27,7 +27,7 @@ I also bring hands-on software development, cloud, and data engineering experien
 
 ---
 
-### 🧰 Skills & Methods
+## 🧰 Skills & Methods
 
 - **Programming & Analysis:** Python, SQL, pandas, NumPy, Statistical Analysis
 
@@ -45,7 +45,7 @@ I also bring hands-on software development, cloud, and data engineering experien
 ---
 
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### Financial Complaint Auto-Routing with NLP ( https://github.com/rihua-tech/financial-complaint-auto-routing-nlp )
 
